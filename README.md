@@ -26,14 +26,6 @@ Family Tree is an innovative application that helps you discover your ancestry a
 
 ---
 
-# Documentation
-
-
-Origin documentation is [available here](https://www.google.com)
-
-
----
-
 # Tech
 
 
